@@ -1,0 +1,7 @@
+hola mundo
+este es el tercer paso creo branch
+<<<<<<< HEAD
+cuarta parte agregada
+=======
+tercer paso incluido
+>>>>>>> nuevo-branch
